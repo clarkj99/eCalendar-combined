@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b35b8585.chunk.css",
+    "main.js": "/static/js/main.caa4e793.chunk.js",
+    "main.js.map": "/static/js/main.caa4e793.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.517b3ece.js",
+    "runtime-main.js.map": "/static/js/runtime-main.517b3ece.js.map",
+    "static/js/2.e00ba448.chunk.js": "/static/js/2.e00ba448.chunk.js",
+    "static/js/2.e00ba448.chunk.js.map": "/static/js/2.e00ba448.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.53a231066c5fe260047aed87b0223317.js": "/precache-manifest.53a231066c5fe260047aed87b0223317.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b35b8585.chunk.css.map": "/static/css/main.b35b8585.chunk.css.map",
+    "static/js/2.e00ba448.chunk.js.LICENSE.txt": "/static/js/2.e00ba448.chunk.js.LICENSE.txt",
+    "static/media/Calendar.css": "/static/media/sean-o-KMn4VEeEPR8-unsplash.08dc0898.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.517b3ece.js",
+    "static/js/2.e00ba448.chunk.js",
+    "static/css/main.b35b8585.chunk.css",
+    "static/js/main.caa4e793.chunk.js"
+  ]
+}
